@@ -1,0 +1,27 @@
+.u{
+    background-color: blue;
+    width: 80%;
+    height: 80vh;
+    margin-top: 10vh;
+    margin-left: 15vh;
+}
+.k{
+    background-color: chartreuse;
+    width: 70%;
+    height: 70vh;
+    margin-top: 10vh;
+    margin-left: 15vh;
+    hidden
+}
+.o{
+    background-color: red;
+    width: 70%;
+    height: 70vh;
+    margin-top: 10vh;
+    margin-left: 15vh;
+}
+@media only screen and (max-width: 500px){
+   .u{
+       background-color: coral;
+   }
+}

@@ -1,0 +1,75 @@
+body{
+    background-color: wheat;
+}
+.we{
+    margin-left: 25%;
+    margin-top: 20%;
+}
+.we h1{
+    color: blue;
+}
+.on{
+    margin-left: 52%;
+    margin-top: -10%;
+    background-color: white;
+    color: wheat;
+    width: 30vw;
+    padding-top: 2%;
+    border-radius: 5%;
+    padding-bottom: 3%;
+}
+@media(max-width:756px){
+    .on{
+        margin-left: auto;
+        margin-top: auto;
+        background-color: white;
+        color: wheat;
+        width: 70% !important;
+        padding-top: 2%;
+        border-radius: 5%;
+        padding-bottom: 3%;
+        /* border: red solid; */
+    }  
+}
+.is{
+    margin-left: 11%;
+    margin-bottom: 2%;
+    width: 75%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    padding-top: 2%;
+}
+.so{
+    margin-left: 11%;
+    width: 75%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    padding-top: 2%;
+    margin-bottom: 2%;
+}
+.os{
+    margin-left: 11%;
+    margin-bottom: 2%;
+    width: 75%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    background: blue;
+    padding-top: 3%;
+    color: white;
+}
+.si{
+    margin-left: 30%;
+    color: blue;
+}
+.ew{
+    padding-bottom: 3%;
+    padding-top: 2%;
+    width: 50%;
+    margin-left: 23%;
+    background: green;
+    border-radius: 5%;
+    color: white;
+}
+.up{
+    margin-left: 53%;
+}

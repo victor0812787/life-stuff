@@ -1,0 +1,70 @@
+/* .come{
+
+    display: flex;
+}
+.u{
+    background-color: blue;
+    width: 50%;
+    height: 50vh;
+
+}
+.v{
+    background-color: blue;
+    height: 10vh;
+    
+}
+.k{
+    width: 100%;
+    margin-left: 10vh;  
+}
+.o{
+    background-color: blue;
+    height: 35vh;
+    margin-top: 4vh;
+}
+.p{
+    background-color: blue;
+    height: 15vh;
+    margin-top: 5vh;
+}
+.n{
+    background-color: blue;
+    height: 15vh;
+    margin-top: 7vh;
+}
+@media screen {max-width: 1800px;
+       
+    
+} */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.v{
+    background-color:green;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;       
+}
+.u .na{
+    padding: 30px;
+    font-size: 30px;
+    background-color: rgb(11, 75, 11);
+
+}
+.m{
+    margin-left: 25%;
+    margin-top: -7%;
+    word-spacing: 50px;
+    font-size: 25px;
+    color: white;
+}
+.m .s:hover{
+    background-color:green;
+   
+}
+.m a{
+    color: white;
+    text-decoration: none;
+}
